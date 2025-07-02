@@ -1,0 +1,2 @@
+Similar to exceptions raised at runtime when a error is encounterd .
+Panic is either raised by program itself or the programmer throws the exception on purpose for handling particular errors.
